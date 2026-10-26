@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p189874-e1977911.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/migration-parent-repo/main"
+    url: "https://author-p104656-e2246865.adobeaemcloud.com/bin/franklin.delivery/prafful-s/luma-placeholder-site/main"
     type: "markup"
     suffix: ".html"
